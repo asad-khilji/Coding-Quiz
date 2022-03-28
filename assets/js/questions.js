@@ -7,30 +7,24 @@ var questions = [
   },
   {
     title:
-      "A very useful tool used during development and debugging for printing content to the debugger is:",
-    choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
+      "The condition in an if / else statement is enclosed with",
+    choices: ["quotes", "curly brackets", "parenthesis", "square brackets"],
+    answer: "parenthesis"
+  },
+  {
+    title: "Arrays in JavaScript can be used to store",
+    choices: ["numbers and strings", "other arrays", "booleans", "all of the above"],
+    answer: "all of the above"
+  },
+  {
+    title:
+      "String values must be enclosed within  when being assigned to valuables",
+    choices: ["commas", "curly brackets", "quotes", "parenthesis"],
+    answer: "curly brackets"
+  },
+  {
+    title: "A very useful tool used during development and debugging for printing content to the debugger is:",
+    choices: ["JavaScript", "terminal/bash", "for loops", "console.log"],
     answer: "console.log"
   },
-  {
-    title: "Which of these is NOT a flex direction property?",
-    choices: ["row", "column", "wrap", "column-reverse"],
-    answer: "wrap"
-  },
-  {
-    title:
-      "HTML is an acronym of:",
-    choices: ["HyperText Markup Language", "HyperText Machine Language", "HyperToken Markup Language", "HyperToken Machine Language"],
-    answer: "HyperText Markup Language"
-  },
-  {
-    title: "CSS is an acronym of",
-    choices: ["Coded Style Sheets", "Cascading Style Sheets", "Coding Style Sheets ", "Cascaded Style Sheets"],
-    answer: "Cascading Style Sheets"
-  },
-  {
-    title:
-      "In HTML, an ordered list is created using which tag?",
-    choices: ["<UL>", "<NL>", "<OL>", "<AL>"],
-    answer: "<OL>"
-  }
 ];
