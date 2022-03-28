@@ -18,7 +18,7 @@ var questions = [
   },
   {
     title:
-      "String values must be enclosed within  when being assigned to valuables",
+      "String values must be enclosed within when being assigned to variables",
     choices: ["commas", "curly brackets", "quotes", "parenthesis"],
     answer: "curly brackets"
   },
